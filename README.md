@@ -1,5 +1,6 @@
 # shopApp
-SELF-DIRECTED TASK for Computer Science course
+SELF-DIRECTED TASK  in JAVA for Computer Science Course
+
 a) Implement the Product class.
 (3 marks)
 
